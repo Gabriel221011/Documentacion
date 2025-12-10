@@ -2,11 +2,11 @@
 
 ## Paso 1
 
-![Imagen1](../assets/img/Imagen1.png)
+![Imagen1](/assets/img/Imagen1.png)
 
 El primer paso sera crear el sitio web de ***Jekyll***, para ello utilizamos el comando **"jekyll new --force"**, y se nos creara la página web de ***Jekyll*** dentro de la carpeta **MyBlog** tambien podemos anteriormente iniciar esta carpeta como un repositiorio remoto conectado a ***Github*** para crear dentro de este el sitio web.
 
-![jekyll]({{"/assets/img/Imagen2.png" | absolute_url}})
+![jekyll]({{"../assets/img/Imagen2.png" | absolute_url}})
 
 Podemos comprobar con *ls* que se ha creado todos los archivos y ficheros de ***Jekyll*** dentro del repositorio
 
