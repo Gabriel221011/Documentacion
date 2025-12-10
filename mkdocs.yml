@@ -1,6 +1,6 @@
 site_name: Documentación
 site_url: https://github.com/Gabriel221011/Documentacion
-docs_dir: /paginas
+docs_dir: /docs
 site_dir: /docs
 
 nav:
