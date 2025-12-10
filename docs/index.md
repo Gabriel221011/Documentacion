@@ -1,17 +1,26 @@
-# Welcome to MkDocs
+# Índice 
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## 1. Introducción a MkDocs
 
-## Commands
+**MkDocs** es un generador de sitios web estáticos orientado a la creación de documentación técnica.  
+Utiliza archivos Markdown como fuente y permite generar páginas web limpias, organizadas y fáciles de navegar.  
+Es rápido de configurar, compatible con temas modernos como *Material for MkDocs*, y muy usado para documentar proyectos de software.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+---
+## Ejercicio 1:
 
-## Project layout
+Ejercicio sobre el tema minima de ***Jekyll***.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Ejercicio 2:
+
+Ejercicio sobre el tema lagrange de ***Jekyll***.
+
+## Ejercicio 3:
+
+Ejercicio sobre un tema libre de ***Jekyll***.
+
+## Ejercicio 4:
+
+Ejercicio sobre **MkDocs** para unir la documentación.
+---
+

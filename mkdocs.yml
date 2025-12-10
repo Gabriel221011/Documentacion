@@ -5,8 +5,10 @@ site_dir: /docs
 
 nav:
   - Home: index.md
-  - VariasCosas:
-      - varios.md
-  - Otros:
-      - otros.md
+  - Ejercicio1:
+      - ejercicio1.md
+  - Ejercicio2:
+      - ejercicio2.md
+  - Ejercicio3:
+      - ejercicio3.md
 theme: readthedocs
