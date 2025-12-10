@@ -48,6 +48,6 @@ Y el último será sobre el mazo más usado de ***Clash Royale***, destacaré la
 
 # Comprobación
 
-![Imagen1](assets/img/Imagen19.png)
+![Imagen1](assets/img/imagen19.png)
 
 Para terminar, comprobamos que se haya subido todo correctamente, después de hacer algunas configuraciones en **"settings.yml"** sobre el *menu* e iconos de *redes sociales*
