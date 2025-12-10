@@ -1,1 +1,9 @@
-site_name: My Docs
+site_name: Documentación
+site-url: https://github.com/Gabriel221011/Documentacion
+site_dir: /docs
+docs-dir: /paginas
+nav:
+  Home: index.md
+  Varias-Cosas: varios.md
+  Otras: otros.md
+theme: readthedocs
